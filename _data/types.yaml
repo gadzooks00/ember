@@ -6,21 +6,25 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
-postdoc:
+researcher:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Postdoctoral Staff Researcher
+
+resident:
+  icon: fa-solid fa-user-doctor
+  description: Resident
 
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+med-student:
+  icon: fa-solid fa-user-graduate-cap
+  description: Medical Student
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
-
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
 
 mascot:
   icon: fa-solid fa-dog
