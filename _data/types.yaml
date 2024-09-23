@@ -19,12 +19,8 @@ phd:
   description: PhD Student
 
 med-student:
-  icon: fa-solid fa-user-graduate-cap
+  icon: fa-solid fa-graduation-cap
   description: Medical Student
-
-undergrad:
-  icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
 
 mascot:
   icon: fa-solid fa-dog
