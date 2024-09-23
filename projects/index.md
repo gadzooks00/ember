@@ -2,13 +2,15 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Research foci for our group
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+At the EMBER Lab, our research projects span a variety of disciplines, all with the goal of advancing brain-computer interface (BCI) technology and neurosurgical care.
+Our current work focuses on developing novel brain recording techniques and applying cutting-edge technology to improve patient outcomes.
+Previous projects have laid the groundwork for new clinical methods, helping bridge the gap between theoretical neuroscience and practical healthcare applications.
+From exploratory research to clinical trials, our projects reflect a commitment to innovation, collaboration, and translational science.
 
 <!-- {% include tags.html tags="publication, resource, website" %} -->
 

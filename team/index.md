@@ -1,13 +1,16 @@
 ---
-title: Team
+title: Members
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: About our lab members
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}Members
 
-We work as a cross
+The EMBER Lab is powered by a diverse and talented group of researchers, students, and clinicians.
+Under the leadership of Dr. Kelly Collins, our team brings together expertise from neuroscience, engineering, and neurosurgery.
+Our current members are actively engaged in a wide range of projects, while our past members continue to make meaningful contributions to science and medicine.
+This page offers an overview of our current lab team, as well as a look at the alumni who have helped shape our lab’s journey.
 
 {% include section.html %}
 
@@ -19,9 +22,7 @@ We work as a cross
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Alumni
 
 {% include section.html %}
 
