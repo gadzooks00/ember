@@ -1,9 +1,12 @@
 ---
 ---
 
-# gadzooks00DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+**Welcome to the EMBER Lab**
 
-
+As part of Oregon Health & Science University (OHSU), the EMBER Lab is a cross-disciplinary team dedicated to advancing neurosurgical healthcare. 
+Under the direction of Dr. Kelly Collins, we develop cutting-edge brain-computer interface (BCI) technologies and explore innovative brain recording techniques. 
+By leveraging both clinical methods and novel approaches, we strive to improve patient outcomes.
+In addition to our core work, we collaborate with leading neurosurgical labs to push the boundaries of what's possible in brain research.
 
 {% include section.html %}
 
@@ -11,7 +14,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Discover the range of our lab’s projects, both past and present, showcasing our diverse research focuses and innovations.
 
 {%
   include button.html
@@ -34,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Browse our publications for a comprehensive look at the research emerging from our lab.
 
 {%
   include button.html
@@ -59,8 +62,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
 {%
   include button.html
   link="team"
@@ -69,6 +70,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
 %}
+
+Meet our team of current and former members, including students, researchers, and collaborators who contribute to our lab’s success.
 
 {% endcapture %}
 
