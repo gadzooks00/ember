@@ -14,14 +14,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include search-info.html %}
 
-{% include section.html %}
+<!-- {% include section.html %}
 
-<!-- ## Featured
+## Featured
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
-{% include section.html %} -->
+{% include section.html %}
 
-<!-- ## More -->
+## More -->
 
 {% include list.html component="card" data="projects" filters="group: " %}
