@@ -2,7 +2,7 @@
 name: Zane A. Zook
 image: members/photos/zane-zook.jpg
 role: researcher
-tag: alum
+alumni: true
 links:
   github: gadzooks00
   website: www.zanezook.com
