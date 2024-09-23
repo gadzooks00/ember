@@ -1,174 +1,210 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1088/1741-2552/aadf3d
+  title: "Concurrent control of a brain\u2013computer interface and natural overt\
+    \ movements"
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - L Bashford
+  - J Wu
+  - D Sarma
+  - K Collins
+  - R P N Rao
+  - J G Ojemann
+  - C Mehring
+  publisher: Journal of Neural Engineering
+  date: '2018-10-10'
+  link: https://doi.org/gnxzff
+  orcid: 0000-0002-2655-121X
+  kelly-collins: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1016/j.wneu.2023.10.085
+  title: Rapid Passive Gamma Mapping as an Adjunct to Electrical Stimulation Mapping
+    for Functional Localization in Resection of Primary Brain Neoplasms
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Hao Tan
+  - Joseph G. Nugent
+  - Adeline Fecker
+  - Emma A. Richie
+  - Kayla A. Maanum
+  - Caleb Nerison
+  - Stephen G. Bowden
+  - Ilker Yaylali
+  - Seunggu J. Han
+  - Dana D. Colgan
+  - Barry Oken
+  - Ahmed M. Raslan
+  publisher: World Neurosurgery
+  date: '2024-01-01'
+  link: https://doi.org/g4j88p
+  orcid: 0009-0000-1185-5758
+  adeline-fecker: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1136/jnis-2023-020628
+  title: Low body mass index patients have worse outcomes after mechanical thrombectomy
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Adeline L Fecker
+  - Maryam N Shahin
+  - Samantha Sheffels
+  - Joseph Girard Nugent
+  - Daniel Munger
+  - Parker Miller
+  - Ryan Priest
+  - Aclan Dogan
+  - Wayne Clark
+  - James Wright
+  - Jesse L Liu
+  publisher: Journal of NeuroInterventional Surgery
+  date: '2023-10-05'
+  link: https://doi.org/g4j88q
+  orcid: 0009-0000-1185-5758
+  adeline-fecker: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1109/TOH.2024.3365669
+  title: Design and Evaluation of a 3-DoF Haptic Device for Directional Shear Cues
+    on the Forearm
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Kyle T. Yoshida
+  - Zane A. Zook
+  - Hojung Choi
+  - Ming Luo
+  - Marcia K. O'Malley
+  - Allison M. Okamura
+  publisher: IEEE Transactions on Haptics
+  date: '2024-07-01'
+  link: https://doi.org/g4j88r
+  orcid: 0000-0002-9700-2955
+  zane-zook: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1002/aisy.202470032
+  title: "Multiscale Textile\u2010Based Haptic Interactions"
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Zane A. Zook
+  - Barclay Jumet
+  - Anas Yousaf
+  - Daniel J. Preston
+  - "Marcia K. O\u2019Malley"
+  publisher: Advanced Intelligent Systems
+  date: '2024-07-01'
+  link: https://doi.org/g4j88v
+  orcid: 0000-0002-9700-2955
+  zane-zook: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1002/aisy.202300897
+  title: "Multiscale Textile\u2010Based Haptic Interactions"
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Zane A. Zook
+  - Barclay Jumet
+  - Anas Yousaf
+  - Daniel J. Preston
+  - "Marcia K. O\u2019Malley"
+  publisher: Advanced Intelligent Systems
+  date: '2024-04-21'
+  link: https://doi.org/g4j88z
+  orcid: 0000-0002-9700-2955
+  zane-zook: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1109/TOH.2023.3271128
+  title: Mechanofluidic Instability-Driven Wearable Textile Vibrotactor
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Nathaniel Fino
+  - Barclay Jumet
+  - Zane A. Zook
+  - Daniel J. Preston
+  - Marcia K. O'Malley
+  publisher: IEEE Transactions on Haptics
+  date: '2023-10-01'
+  link: https://doi.org/g4j882
+  orcid: 0000-0002-9700-2955
+  zane-zook: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TOH.2021.3112509
+  title: Effect of Tactile Masking on Multi-Sensory Haptic Perception
+  authors:
+  - Zane A. Zook
+  - Joshua J. Fleck
+  - Marcia K. O'Malley
+  publisher: IEEE Transactions on Haptics
+  date: '2022-01-01'
+  link: https://doi.org/g4j883
+  orcid: 0000-0002-9700-2955
+  zane-zook: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-06249-0_14
+  title: Effect of Focus Direction and Agency on Tactile Perceptibility
+  authors:
+  - Zane A. Zook
+  - "Marcia K. O\u2019Malley"
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/g4j887
+  orcid: 0000-0002-9700-2955
+  zane-zook: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/whc49131.2021.9517172
+  title: 'Snaptics: Low-Cost Open-Source Hardware for Wearable Multi-Sensory Haptics'
+  authors:
+  - Zane A. Zook
+  - Ozioma O. Ozor-Ilo
+  - Gabriel T. Zook
+  - Marcia K. O'Malley
+  publisher: 2021 IEEE World Haptics Conference (WHC)
+  date: '2021-07-06'
+  link: https://doi.org/gmndvw
+  orcid: 0000-0002-9700-2955
+  zane-zook: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TOH.2021.3075387
+  title: Effects of Interfering Cue Separation Distance and Amplitude on the Haptic
+    Detection of Skin Stretch
+  authors:
+  - Andrew K. Low
+  - Zane A. Zook
+  - Joshua J. Fleck
+  - Marcia K. O'Malley
+  publisher: IEEE Transactions on Haptics
+  date: '2021-04-01'
+  link: https://doi.org/g4j89c
+  orcid: 0000-0002-9700-2955
+  zane-zook: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/whc.2019.8816139
+  title: Effect of Interference on Multi-Sensory Haptic Perception of Stretch and
+    Squeeze
+  authors:
+  - Zane A. Zook
+  - Joshua J. Fleck
+  - Tiffani W. Tjandra
+  - Marcia K. O'Malley
+  publisher: 2019 IEEE World Haptics Conference (WHC)
+  date: '2019-07-01'
+  link: https://doi.org/g4j89w
+  orcid: 0000-0002-9700-2955
+  zane-zook: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icra.2018.8462883
+  title: Effects of Latency and Refresh Rate on Force Perception via Sensory Substitution
+    by Force-Controlled Skin Deformation Feedback
+  authors:
+  - Zane A. Zook
+  - Allison M. Okamura
+  - Yasuhisa Kamikawa
+  publisher: 2018 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2018-05-01'
+  link: https://doi.org/g4j892
+  orcid: 0000-0002-9700-2955
+  zane-zook: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +220,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +236,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
