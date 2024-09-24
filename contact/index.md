@@ -10,8 +10,6 @@ nav:
 We welcome inquiries from researchers, collaborators, and anyone interested in learning more about our work at the EMBER Lab.
 Whether you’re looking for details on our projects, publications, or potential collaborations, feel free to reach out.
 
-Email: zookz@ohsu.edu
-Address: 
 
 {%
   include button.html
