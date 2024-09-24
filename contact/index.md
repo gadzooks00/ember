@@ -10,9 +10,9 @@ nav:
 We welcome inquiries from researchers, collaborators, and anyone interested in learning more about our work at the EMBER Lab.
 Whether you’re looking for details on our projects, publications, or potential collaborations, feel free to reach out.
 
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=V3lz4rj6fk2U9pvWr59xWJJNg8E_r3lDqQwTlyIqDehUOFJOTUpIWEwxSkdJWVVVNkdSU1EyNlFPWC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="100%" height="100%" src="https://forms.office.com/r/K18CNzBUDn?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
-{%
+<!-- {%
   include button.html
   type="email"
   text="jane@smith.com"
@@ -23,9 +23,9 @@ Whether you’re looking for details on our projects, publications, or potential
   type="phone"
   text="(555) 867-5309"
   link="+1-555-867-5309"
-%}
+%} -->
 
-{% include section.html %}
+<!-- {% include section.html %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
@@ -49,4 +49,4 @@ consectetur adipiscing elit
 sed do eiusmod tempor
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %} -->
