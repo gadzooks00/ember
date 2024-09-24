@@ -1,6 +1,6 @@
 ---
 name: Adeline Fecker
-image: 
+image: members/photos/adeline-fecker.jpg
 role: med-student
 ---
 
