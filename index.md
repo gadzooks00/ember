@@ -29,7 +29,7 @@ Discover the range of our lab’s projects, both past and present, showcasing ou
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/brain_rot.gif"
   link="research"
   title="Our Research"
   text=text
