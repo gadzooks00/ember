@@ -1,6 +1,5 @@
 
-# gadzooks00DESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Welcome to the EMBER Lab
 
-Visit **[gadzooks00.github.io/ember](https://gadzooks00.github.io/ember)** 🚀
-
-_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+As part of Oregon Health & Science University (OHSU), the EMBER Lab is a cross-disciplinary team dedicated to advancing neurosurgical healthcare. Under the direction of Dr. Kelly Collins, we develop cutting-edge brain-computer interface (BCI) technologies and explore innovative brain recording techniques. By leveraging both clinical methods and novel approaches, we strive to improve patient outcomes. In addition to our core work, we collaborate with leading neurosurgical labs to push the boundaries of what’s possible in brain research.
+Visit **[gadzooks00.github.io/ember](https://gadzooks00.github.io/ember)** 🚀 to learn more!
