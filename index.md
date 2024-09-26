@@ -52,7 +52,7 @@ Browse our publications for a comprehensive look at the research emerging from o
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/logo.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -77,7 +77,7 @@ Meet our team of current and former members, including students, researchers, an
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/logo.jpg"
   link="team"
   title="Our Team"
   text=text
