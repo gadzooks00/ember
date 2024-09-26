@@ -10,7 +10,8 @@ nav:
 The EMBER Lab is powered by a diverse and talented group of researchers, students, and clinicians.
 Under the leadership of Dr. Kelly Collins, our team brings together expertise from neuroscience, engineering, and neurosurgery.
 Our current members are actively engaged in a wide range of projects, while our past members continue to make meaningful contributions to science and medicine.
-This page offers an overview of our current lab team, as well as a look at our OHSU collaborators in the OHSU Electrophysiology Consortium
+This page offers an overview of our current lab team, as well as a look at our OHSU collaborators in the OHSU Electrophysiology Consortium.
+
 
 {% include section.html %}
 

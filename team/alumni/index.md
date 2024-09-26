@@ -1,7 +1,5 @@
 ---
 title: Alumni
-nav:
-  tooltip: About our lab alumni
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
