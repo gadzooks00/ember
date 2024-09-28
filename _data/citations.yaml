@@ -16,8 +16,8 @@
   link: https://doi.org/gnxzff
   orcid: 0000-0002-2655-121X
   kelly-collins: true
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:38878055
   title: Beta Oscillations in the Sensory Thalamus During Severe Facial Neuropathic
     Pain Using Novel Sensing Deep Brain Stimulation.
@@ -37,8 +37,9 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/38878055
   orcid: 0009-0000-1185-5758
   adeline-fecker: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: 38878055
 - id: pmid:39205906
   title: 'Myxopapillary Ependymoma Metastasis Mimicking Pulmonary Embolism: An Illustrative
     Case.'
