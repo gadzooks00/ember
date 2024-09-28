@@ -12,7 +12,6 @@ Under the leadership of Dr. Kelly Collins, our team brings together expertise fr
 Our current members are actively engaged in a wide range of projects, while our past members continue to make meaningful contributions to science and medicine.
 This page offers an overview of our current lab team, as well as a look at our OHSU collaborators in the OHSU Electrophysiology Consortium.
 
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi, alumni: " %}
