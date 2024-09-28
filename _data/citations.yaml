@@ -18,6 +18,65 @@
   kelly-collins: true
   plugin: sources.py
   file: sources.yaml
+- id: pmid:38878055
+  title: Beta Oscillations in the Sensory Thalamus During Severe Facial Neuropathic
+    Pain Using Novel Sensing Deep Brain Stimulation.
+  authors:
+  - Christian G Lopez Ramos
+  - Alexander P Rockhill
+  - Maryam N Shahin
+  - Antonia Gragg
+  - Hao Tan
+  - Erin A Yamamoto
+  - Adeline L Fecker
+  - Mostafa Ismail
+  - Daniel R Cleary
+  - Ahmed M Raslan
+  publisher: 'Neuromodulation : journal of the International Neuromodulation Society'
+  date: '2024-06-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38878055
+  orcid: 0009-0000-1185-5758
+  adeline-fecker: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:39205906
+  title: 'Myxopapillary Ependymoma Metastasis Mimicking Pulmonary Embolism: An Illustrative
+    Case.'
+  authors:
+  - Adeline Fecker
+  - Kayla A Maanum
+  - Maryam N Shahin
+  - Melanie Hakar
+  - James M Wright Iii
+  publisher: Asian journal of neurosurgery
+  date: '2024-05-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39205906
+  orcid: 0009-0000-1185-5758
+  adeline-fecker: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:38678798
+  title: 'Taste dysfunction after endoscopic endonasal resection of olfactory groove
+    meningioma: Case series and review of the literature.'
+  authors:
+  - Adeline L Fecker
+  - Matt Studer
+  - R Peter Manes
+  - Sacit Bulent Omay
+  - Kara Detwiller
+  - Timothy L Smith
+  - Peter Andersen
+  - Olabisi Sanusi
+  - Kelly Collins
+  - Mathew Geltzeiler
+  - Ryan A Rimmer
+  publisher: American journal of otolaryngology
+  date: '2024-04-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38678798
+  orcid: 0009-0000-1185-5758
+  adeline-fecker: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.wneu.2023.10.085
   title: Rapid Passive Gamma Mapping as an Adjunct to Electrical Stimulation Mapping
     for Functional Localization in Resection of Primary Brain Neoplasms
@@ -41,6 +100,44 @@
   adeline-fecker: true
   plugin: orcid.py
   file: orcid.yaml
+- id: pmid:37874131
+  title: 'On-Call Workload Differences in Neurosurgery: Resident Call "Weather" and
+    a Departure from Colored Cloud Labels.'
+  authors:
+  - Hao Tan
+  - Stephen G Bowden
+  - Dominic A Siler
+  - Brannan E O'Neill
+  - Maryam N Shahin
+  - Adeline L Fecker
+  - Samantha Fleming-Sheffels
+  - Seunggu Jude Han
+  - Nathan R Selden
+  - Jesse Winer
+  - Josiah N Orina
+  publisher: Neurosurgery
+  date: '2023-10-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37874131
+  orcid: 0009-0000-1185-5758
+  adeline-fecker: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:37855995
+  title: ANCA-associated kidney disease preceded by orbital pseudotumor.
+  authors:
+  - Ileisa Oleson
+  - Adeline Fecker
+  - Kelsey Richardson
+  - Abbie Bauer
+  - Nicole K Andeen
+  - Vanderlene L Kung
+  publisher: Pediatric nephrology (Berlin, Germany)
+  date: '2023-10-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37855995
+  orcid: 0009-0000-1185-5758
+  adeline-fecker: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1136/jnis-2023-020628
   title: Low body mass index patients have worse outcomes after mechanical thrombectomy
   authors:
@@ -58,6 +155,22 @@
   publisher: Journal of NeuroInterventional Surgery
   date: '2023-10-05'
   link: https://doi.org/g4j88q
+  orcid: 0009-0000-1185-5758
+  adeline-fecker: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:37319382
+  title: 'Low-Cost Wound Healing Protocol Reduces Infection and Reoperation Rates
+    After Cranioplasty: A Retrospective Cohort Study.'
+  authors:
+  - Ali I Rae
+  - Brannan E O'Neill
+  - Jamila Godil
+  - Adeline L Fecker
+  - Donald Ross
+  publisher: Neurosurgery
+  date: '2023-06-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37319382
   orcid: 0009-0000-1185-5758
   adeline-fecker: true
   plugin: orcid.py
