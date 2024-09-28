@@ -20,6 +20,7 @@ See our **[Alumni Page](https://gadzooks00.github.io/ember/team/alumni/)** to se
 {% include list.html data="members" component="portrait" filters="role: researcher, alumni: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, alumni: " %}
 {% include list.html data="members" component="portrait" filters="role: med-student, alumni: " %}
+{% include list.html data="members" component="portrait" filters="role: staff, alumni: " %}
 
 {% include section.html %}
 

@@ -12,3 +12,4 @@ This page offers an overview of the alumni who have helped shape our lab’s jou
 {% include list.html data="members" component="portrait" filters="role: researcher, alumni: true" %}
 {% include list.html data="members" component="portrait" filters="role: phd, alumni: true" %}
 {% include list.html data="members" component="portrait" filters="role: med-student, alumni: true" %}
+{% include list.html data="members" component="portrait" filters="role: staff, alumni: true" %}
