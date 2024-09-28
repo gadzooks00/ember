@@ -2,6 +2,7 @@
 name: Ian Stevens
 image: members/photos/ian-stevens.jpg
 role: staff
+alumni: true
 ---
 
 Ian was a research assistant in the EMBER LAB from 2022-2024. 
