@@ -322,3 +322,37 @@
   zane-zook: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/cercor/bhy285
+  title: Direct Electrophysiological Correlates of Body Ownership in Human Cerebral
+    Cortex
+  authors:
+  - Arvid Guterstam
+  - Kelly L Collins
+  - Jeneva A Cronin
+  - Hugo Zeberg
+  - Felix Darvas
+  - Kurt E Weaver
+  - Jeffrey G Ojemann
+  - H Henrik Ehrsson
+  publisher: Cerebral Cortex
+  date: '2018-11-14'
+  link: https://doi.org/gh9f3b
+  image: https://github.com/gadzooks00/ember/blob/237de28c9fe7bcc9d4ae9894521a61b704a55de1/images/publications/bhy285.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:27994147
+  title: Ownership of an artificial limb induced by electrical brain stimulation.
+  authors:
+  - Kelly L Collins
+  - Arvid Guterstam
+  - Jeneva Cronin
+  - Jared D Olson
+  - H Henrik Ehrsson
+  - Jeffrey G Ojemann
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2016-12-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27994147
+  image: https://github.com/gadzooks00/ember/blob/237de28c9fe7bcc9d4ae9894521a61b704a55de1/images/publications/27994147.jpeg
+  plugin: sources.py
+  file: sources.yaml
