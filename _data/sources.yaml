@@ -10,8 +10,8 @@
   remove: true
 
 - id: doi:10.1002/aisy.202300897
-  image: https://github.com/gadzooks00/ember/blob/2e09730689ac64380b194b24e3831d778357d743/images/publications/202300897.jpg
+  image: https://onlinelibrary.wiley.com/cms/asset/4e5b34f4-c17e-489f-b6e6-ab32249afb3a/aisy202300897-fig-0001-m.jpg
 
 # Fecker Papers
 - id: pmid:38878055
-  image: https://github.com/gadzooks00/ember/blob/2e09730689ac64380b194b24e3831d778357d743/images/publications/38878055.png
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1094715924001065-gr1.jpg
