@@ -195,7 +195,7 @@
   zane-zook: true
   plugin: sources.py
   file: sources.yaml
-  image: null
+  image: https://github.com/gadzooks00/ember/blob/a9c2b6e5a3eea7bc7c1858e1615b60255478f766/images/publications/3365669.png
 - id: doi:10.1002/aisy.202300897
   title: "Multiscale Textile\u2010Based Haptic Interactions"
   authors:
