@@ -39,7 +39,7 @@
   adeline-fecker: true
   plugin: sources.py
   file: sources.yaml
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/11349400/bin/10-1055-s-0044-1779293-i22100019-1.gif
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1094715924001065-gr1.jpg
 - id: pmid:39205906
   title: 'Myxopapillary Ependymoma Metastasis Mimicking Pulmonary Embolism: An Illustrative
     Case.'
@@ -54,8 +54,9 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/39205906
   orcid: 0009-0000-1185-5758
   adeline-fecker: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://pubmed.ncbi.nlm.nih.gov/39205906/#&gid=article-figures&pid=fig-1-uid-0
 - id: pmid:38678798
   title: 'Taste dysfunction after endoscopic endonasal resection of olfactory groove
     meningioma: Case series and review of the literature.'
@@ -322,7 +323,7 @@
   publisher: Cerebral Cortex
   date: '2018-11-14'
   link: https://doi.org/gh9f3b
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cercor/29/3/10.1093_cercor_bhy285/3/bhy285f01.jpeg?Expires=1730753673&Signature=dkd~GyErYUj0~TV8xfSefF9X7qkJautZURghvaQW3Ms41BsQPSR22NI9LdoOiiSyrwMrZGBPTTS~3K0Ap8uUQMApYLyZ0zhDtPnW5~PK1ICcJYUApzhqwssv1K-k~lk8jcAxXNUu39BBqS05nYYUb8wz5PNG80vqAjw52-NQxFcojj38NRZEh64IJRBxI2fJftSoh5Gfxz1HSrwK2Q93fe2kHhkW4~jBiYhULm324HO4BLpihK0ILHRey-L-O96naZ3wqvkVkTpc3HljfXxCfgj7Y~G85YSkF5Jl4v9fx9bkOBYL6W44db4u3-PeHfkv1L4DSFknauld7quuTA9TRQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cercor/29/3/10.1093_cercor_bhy285/3/m_bhy285f01.jpeg?Expires=1730463957&Signature=hKPod0F9HUgQPlitK9STGQPfiHzoD2AQQ2EVndRD1~HtemT4DbzEKZQGMBRXBzrBikDctRhj5c3tViBYy8RWxhdZRELwZpmZf7whzvSz1Enwcx4hqexTPN-2zEzeH9LEMJ8sQF6oQI4xdzBcqDNogjk41rhM7sAcyLEpr9jUututDbjnTAMVOQv5LsF3CUK39pWyhmcM1vjIAw8khjnVvPJQ14tEQERyiWzNK9-DYvANq5B4YBtZi5yOl0PYU0xu~wUh98-rk20uaTEhemLSrrvfum9bFMAzpMjinEdESbwGjqsmEMHzfj1qC6wNJFgx51SY30yyCHrgpmjJ1t37rQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:27994147
