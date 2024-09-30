@@ -206,9 +206,8 @@
   link: https://doi.org/g4j88v
   orcid: 0000-0002-9700-2955
   zane-zook: true
-  plugin: sources.py
-  file: sources.yaml
-  image: https://github.com/gadzooks00/ember/blob/abceb6239ed4b9e26915bc281bcc5996c777d4d9/images/publications/202470032.jpg
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/aisy.202300897
   title: "Multiscale Textile\u2010Based Haptic Interactions"
   authors:
@@ -222,8 +221,9 @@
   link: https://doi.org/g4j88z
   orcid: 0000-0002-9700-2955
   zane-zook: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://github.com/gadzooks00/ember/blob/abceb6239ed4b9e26915bc281bcc5996c777d4d9/images/publications/202300897.jpg
 - id: doi:10.1109/TOH.2023.3271128
   title: Mechanofluidic Instability-Driven Wearable Textile Vibrotactor
   authors:
@@ -322,3 +322,37 @@
   zane-zook: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/cercor/bhy285
+  title: Direct Electrophysiological Correlates of Body Ownership in Human Cerebral
+    Cortex
+  authors:
+  - Arvid Guterstam
+  - Kelly L Collins
+  - Jeneva A Cronin
+  - Hugo Zeberg
+  - Felix Darvas
+  - Kurt E Weaver
+  - Jeffrey G Ojemann
+  - H Henrik Ehrsson
+  publisher: Cerebral Cortex
+  date: '2018-11-14'
+  link: https://doi.org/gh9f3b
+  image: https://github.com/gadzooks00/ember/blob/237de28c9fe7bcc9d4ae9894521a61b704a55de1/images/publications/bhy285.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:27994147
+  title: Ownership of an artificial limb induced by electrical brain stimulation.
+  authors:
+  - Kelly L Collins
+  - Arvid Guterstam
+  - Jeneva Cronin
+  - Jared D Olson
+  - H Henrik Ehrsson
+  - Jeffrey G Ojemann
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2016-12-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27994147
+  image: https://github.com/gadzooks00/ember/blob/237de28c9fe7bcc9d4ae9894521a61b704a55de1/images/publications/27994147.jpeg
+  plugin: sources.py
+  file: sources.yaml
