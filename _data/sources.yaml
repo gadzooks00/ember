@@ -1,6 +1,14 @@
-- id: doi:10.1002/aisy.202470032
-  image: https://github.com/gadzooks00/ember/blob/abceb6239ed4b9e26915bc281bcc5996c777d4d9/images/publications/202470032.jpg
+# Collins Papers
+- id: doi.org/10.1093/cercor/bhy285
+  image: https://github.com/gadzooks00/ember/blob/237de28c9fe7bcc9d4ae9894521a61b704a55de1/images/publications/bhy285.jpeg
 
+- id: pubmed:27994147
+  image: https://github.com/gadzooks00/ember/blob/237de28c9fe7bcc9d4ae9894521a61b704a55de1/images/publications/27994147.jpeg
 
+# Zook Papers
+- id: doi:10.1002/aisy.202300897
+  image: https://github.com/gadzooks00/ember/blob/abceb6239ed4b9e26915bc281bcc5996c777d4d9/images/publications/202300897.jpg
+
+# Fecker Papers
 - id: pmid:38878055 
   image: https://github.com/gadzooks00/ember/blob/5dd7ad4fee22bfe976866fd4487a6fc0fa80714a/images/publications/38878055.png
