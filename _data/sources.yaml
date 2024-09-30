@@ -5,6 +5,9 @@
 - id: pubmed:27994147
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5224395/bin/pnas.1616305114fig01.jpg
 
+- id: pmid:27429448
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5217174/bin/nihms837760f1.jpg
+
 # Zook Papers
 - id: doi:10.1002/aisy.202470032
   remove: true
@@ -17,7 +20,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1094715924001065-gr1.jpg
 
 - id: pmid:39205906
-  image: https://github.com/gadzooks00/ember/blob/92d15f9fa068cfe358979f51d297a8c29b298a8e/images/publications/39205906.jpg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/11349400/bin/10-1055-s-0044-1779293-i22100019-1.gif
 
 - id: pmid:38678798
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0196070924000887-gr1.jpg
