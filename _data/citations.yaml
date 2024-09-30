@@ -206,8 +206,9 @@
   link: https://doi.org/g4j88v
   orcid: 0000-0002-9700-2955
   zane-zook: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://github.com/gadzooks00/ember/blob/abceb6239ed4b9e26915bc281bcc5996c777d4d9/images/publications/202470032.jpg
 - id: doi:10.1002/aisy.202300897
   title: "Multiscale Textile\u2010Based Haptic Interactions"
   authors:
