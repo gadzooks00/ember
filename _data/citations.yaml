@@ -39,7 +39,7 @@
   adeline-fecker: true
   plugin: sources.py
   file: sources.yaml
-  image: images/publications/38878055.png
+  image: https://github.com/gadzooks00/ember/blob/5dd7ad4fee22bfe976866fd4487a6fc0fa80714a/images/publications/38878055.png
 - id: pmid:39205906
   title: 'Myxopapillary Ependymoma Metastasis Mimicking Pulmonary Embolism: An Illustrative
     Case.'
