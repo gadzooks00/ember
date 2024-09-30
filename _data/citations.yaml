@@ -56,7 +56,7 @@
   adeline-fecker: true
   plugin: sources.py
   file: sources.yaml
-  image: https://github.com/gadzooks00/ember/blob/92d15f9fa068cfe358979f51d297a8c29b298a8e/images/publications/39205906.jpg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/11349400/bin/10-1055-s-0044-1779293-i22100019-1.gif
 - id: pmid:38678798
   title: 'Taste dysfunction after endoscopic endonasal resection of olfactory groove
     meningioma: Case series and review of the literature.'
@@ -341,5 +341,21 @@
   date: '2016-12-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27994147
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5224395/bin/pnas.1616305114fig01.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: pmid:27429448
+  title: Task-Specific Somatosensory Feedback via Cortical Stimulation in Humans.
+  authors:
+  - Jeneva A Cronin
+  - Jing Wu
+  - Kelly L Collins
+  - Devapratim Sarma
+  - Rajesh P N Rao
+  - Jeffrey G Ojemann
+  - Jared D Olson
+  publisher: IEEE transactions on haptics
+  date: '2016-07-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27429448
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/5217174/bin/nihms837760f1.jpg
   plugin: sources.py
   file: sources.yaml
