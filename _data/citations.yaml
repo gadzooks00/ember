@@ -18,6 +18,27 @@
   kelly-collins: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1136/jnis-2023-020628
+  title: Low body mass index patients have worse outcomes after mechanical thrombectomy
+  authors:
+  - Adeline L Fecker
+  - Maryam N Shahin
+  - Samantha Sheffels
+  - Joseph Girard Nugent
+  - Daniel Munger
+  - Parker Miller
+  - Ryan Priest
+  - Aclan Dogan
+  - Wayne Clark
+  - James Wright
+  - Jesse L Liu
+  publisher: Journal of NeuroInterventional Surgery
+  date: '2023-10-05'
+  link: https://doi.org/g4j88q
+  orcid: 0009-0000-1185-5758
+  adeline-fecker: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:38878055
   title: Beta Oscillations in the Sensory Thalamus During Severe Facial Neuropathic
     Pain Using Novel Sensing Deep Brain Stimulation.
@@ -125,6 +146,7 @@
   adeline-fecker: true
   plugin: sources.py
   file: sources.yaml
+  image: https://github.com/gadzooks00/ember/blob/45d804f3aafeec7fe8c70526cb8bb5c6c75fe97b/images/fallback.svg
 - id: pmid:37855995
   title: ANCA-associated kidney disease preceded by orbital pseudotumor.
   authors:
@@ -137,27 +159,6 @@
   publisher: Pediatric nephrology (Berlin, Germany)
   date: '2023-10-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37855995
-  orcid: 0009-0000-1185-5758
-  adeline-fecker: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1136/jnis-2023-020628
-  title: Low body mass index patients have worse outcomes after mechanical thrombectomy
-  authors:
-  - Adeline L Fecker
-  - Maryam N Shahin
-  - Samantha Sheffels
-  - Joseph Girard Nugent
-  - Daniel Munger
-  - Parker Miller
-  - Ryan Priest
-  - Aclan Dogan
-  - Wayne Clark
-  - James Wright
-  - Jesse L Liu
-  publisher: Journal of NeuroInterventional Surgery
-  date: '2023-10-05'
-  link: https://doi.org/g4j88q
   orcid: 0009-0000-1185-5758
   adeline-fecker: true
   plugin: orcid.py
@@ -176,6 +177,22 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/37319382
   orcid: 0009-0000-1185-5758
   adeline-fecker: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TOH.2024.3437766
+  title: 'Validation of Snaptics: A Modular Approach to Low-Cost Wearable Multi-Sensory
+    Haptics'
+  authors:
+  - Zane A. Zook
+  - Odnan Galvan
+  - Ozioma Ozor-Ilo
+  - Emre C. Selcuk
+  - Marcia K. O'Malley
+  publisher: IEEE Transactions on Haptics
+  date: '2024-10-01'
+  link: https://doi.org/g8wpqn
+  orcid: 0000-0002-9700-2955
+  zane-zook: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TOH.2024.3365669
